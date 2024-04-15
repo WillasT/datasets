@@ -1,0 +1,108 @@
+Name,Age,Height (cm),Weight (kg),Country,Position,Club,Goals,Assists,Net Worth (Millions USD),Pass Completion %,Expected Goals,Matches Played,Fouls,Tackles,Tackle Success %
+"Harry Kane",28,188,89,England,Forward,Tottenham Hotspur,19,10,100,82,0.85,22,32,15,80
+"Kevin De Bruyne",30,181,70,Belgium,Midfielder,Manchester City,8,18,120,88,0.78,25,24,42,85
+"Sadio Mane",29,175,69,Senegal,Forward,Liverpool,12,8,90,80,0.65,24,28,20,75
+"Virgil van Dijk",31,193,92,Netherlands,Defender,Liverpool,3,2,80,90,0.92,18,15,52,92
+"Raheem Sterling",28,170,70,England,Forward,Manchester City,11,15,110,84,0.75,23,30,18,82
+"Mason Mount",24,180,75,England,Midfielder,Chelsea,10,10,70,86,0.79,27,22,38,88
+"Trent Alexander-Arnold",24,175,69,England,Defender,Liverpool,5,12,60,84,0.72,26,18,48,86
+"Marcus Rashford",25,180,76,England,Forward,Manchester United,9,9,80,82,0.68,21,25,22,78
+"Son Heung-min",29,183,77,South Korea,Forward,Tottenham Hotspur,15,10,100,85,0.87,26,30,20,80
+"Wilfred Ndidi",25,183,78,Nigeria,Midfielder,Leicester City,4,6,40,87,0.82,20,35,48,90
+"Ruben Dias",26,187,85,Portugal,Defender,Manchester City,2,1,70,91,0.93,24,10,60,94
+"Riyad Mahrez",31,179,73,Algeria,Forward,Manchester City,10,12,80,83,0.76,23,22,28,85
+"Fabinho",28,188,78,Brazil,Midfielder,Liverpool,3,6,60,88,0.81,19,40,55,89
+"Hakim Ziyech",29,180,70,Morocco,Midfielder,Chelsea,7,9,50,85,0.74,22,28,32,83
+"Raul Jimenez",31,190,80,Mexico,Forward,Wolverhampton Wanderers,8,5,60,81,0.67,20,18,45,80
+"Andrew Robertson",29,178,67,Scotland,Defender,Liverpool,1,8,50,83,0.79,26,20,50,84
+"Declan Rice",23,185,78,England,Midfielder,West Ham United,5,4,50,86,0.76,24,35,58,87
+"Thiago Alcantara",32,174,70,Spain,Midfielder,Liverpool,4,10,70,89,0.84,21,25,40,88
+"James Maddison",26,178,73,England,Midfielder,Leicester City,6,7,60,85,0.71,23,32,42,82
+"Aaron Wan-Bissaka",24,183,76,England,Defender,Manchester United,2,5,40,82,0.68,19,24,55,79
+"Jack Grealish",26,175,72,England,Midfielder,Manchester City,9,12,70,87,0.82,25,28,38,85
+"Ben Chilwell",25,178,75,England,Defender,Chelsea,3,6,50,84,0.73,20,18,45,82
+"Gabriel Jesus",25,175,73,Brazil,Forward,Manchester City,7,8,70,83,0.78,22,26,28,84
+"Matheus Pereira",26,178,74,Brazil,Midfielder,West Bromwich Albion,6,10,40,86,0.74,24,30,50,87
+"Wilfried Zaha",30,180,75,Ivory Coast,Forward,Crystal Palace,10,7,50,85,0.77,21,32,25,81
+"Raphinha",25,175,71,Brazil,Midfielder,Leeds United,9,8,50,88,0.83,23,30,42,86
+"Kieran Tierney",25,178,70,Scotland,Defender,Arsenal,2,4,40,86,0.71,18,15,55,80
+"Christian Pulisic",25,176,69,USA,Forward,Chelsea,5,6,60,85,0.75,20,20,32,83
+"Michail Antonio",32,180,84,Jamaica,Forward,West Ham United,11,6,50,81,0.68,22,35,28,77
+"Emiliano Buendia",25,172,65,Argentina,Midfielder,Aston Villa,7,10,50,87,0.81,24,32,40,88
+"John Stones",28,188,70,England,Defender,Manchester City,2,1,50,92,0.92,20,20,62,93
+"N'Golo Kante",32,168,68,France,Midfielder,Chelsea,2,5,80,91,0.88,22,40,60,92
+"Joao Cancelo",29,182,74,Portugal,Defender,Manchester City,3,8,60,86,0.75,21,22,48,85
+"Danny Ings",29,180,73,England,Forward,Aston Villa,9,4,40,83,0.66,19,25,22,78
+"Ederson",31,188,86,Brazil,Goalkeeper,Manchester City,0,0,60,85,0.82,27,0,0,0
+"Jadon Sancho",23,180,76,England,Forward,Manchester United,6,10,80,86,0.79,24,28,22,83
+"Yerry Mina",27,195,95,Colombia,Defender,Everton,1,2,30,88,0.74,17,18,50,85
+"Jordan Pickford",30,185,77,England,Goalkeeper,Everton,0,0,50,78,0.75,25,0,0,0
+"Paul Pogba",31,191,84,France,Midfielder,Manchester United,3,8,100,87,0.87,23,30,55,89
+"Serge Aurier",29,176,76,Ivory Coast,Defender,Tottenham Hotspur,1,4,30,80,0.73,18,22,48,84
+"Mateo Kovacic",28,178,78,Croatia,Midfielder,Chelsea,2,6,50,89,0.84,22,28,42,86
+"Kalvin Phillips",26,178,71,England,Midfielder,Leeds United,3,5,40,87,0.79,20,30,58,88
+"Michel Vorm",39,183,82,Netherlands,Goalkeeper,Tottenham Hotspur,0,0,20,80,0.78,20,0,0,0
+"Kyle Walker",33,178,70,England,Defender,Manchester City,1,3,50,85,0.77,22,22,48,85
+"Tammy Abraham",25,191,83,England,Forward,Roma,7,3,30,82,0.67,19,18,45,80
+"Conor Coady",29,185,74,England,Defender,Wolverhampton Wanderers,1,0,20,89,0.81,24,28,60,87
+"Youri Tielemans",26,176,72,Belgium,Midfielder,Leicester City,5,7,60,88,0.83,23,32,40,86
+"Alisson",30,191,91,Brazil,Goalkeeper,Liverpool,0,0,80,87,0.84,24,0,0,0
+"Diogo Jota",26,178,69,Portugal,Forward,Liverpool,6,2,50,84,0.76,21,22,28,85
+"Seamus Coleman",34,178,70,Ireland,Defender,Everton,0,1,20,82,0.72,16,10,55,81
+"Danny Welbeck",32,183,75,England,Forward,Brighton & Hove Albion,4,3,30,81,0.69,18,20,30,76
+"Bernardo Silva",29,173,64,Portugal,Midfielder,Manchester City,4,9,60,88,0.82,22,30,42,86
+"Mohamed Salah",30,175,71,Egypt,Forward,Liverpool,20,10,120,86,0.88,26,28,20,80
+"Kai Havertz",24,188,75,Germany,Midfielder,Chelsea,8,5,80,86,0.78,23,28,38,85
+"Eric Bailly",28,187,77,Ivory Coast,Defender,Manchester United,1,0,30,85,0.73,15,15,60,83
+"Scott McTominay",25,193,83,Scotland,Midfielder,Manchester United,2,2,40,84,0.75,20,35,48,90
+"Jorginho",31,180,68,Italy,Midfielder,Chelsea,5,7,60,91,0.87,24,32,40,88
+"Ben White",25,187,74,England,Defender,Arsenal,1,2,30,86,0.75,19,18,45,82
+"Edouard Mendy",30,196,90,Senegal,Goalkeeper,Chelsea,0,0,40,86,0.83,22,0,0,0
+"Granit Xhaka",30,186,82,Switzerland,Midfielder,Arsenal,3,5,50,87,0.82,21,32,42,82
+"Chris Wood",31,191,87,New Zealand,Forward,Burnley,7,1,20,80,0.67,17,18,45,80
+"Rui Patricio",35,190,84,Portugal,Goalkeeper,Wolverhampton Wanderers,0,0,30,80,0.74,20,0,0,0
+"Timo Werner",27,181,75,Germany,Forward,Chelsea,6,4,70,83,0.78,21,22,28,84
+"Neal Maupay",26,175,74,France,Forward,Brighton & Hove Albion,5,3,30,78,0.65,19,20,30,76
+"Martin Dubravka",33,189,84,Slovakia,Goalkeeper,Newcastle United,0,0,20,82,0.72,20,0,0,0
+"Nathan Ake",27,180,77,Netherlands,Defender,Manchester City,1,1,40,89,0.79,22,20,58,85
+"Wilmar Barrios",29,178,73,Colombia,Midfielder,Everton,1,2,20,88,0.81,18,25,52,86
+"Alex Telles",29,181,73,Brazil,Defender,Manchester United,1,3,30,86,0.75,20,18,48,86
+"Vladimir Coufal",29,183,76,Czech Republic,Defender,West Ham United,1,4,20,83,0.71,17,22,50,84
+"Christian Benteke",32,190,83,Belgium,Forward,Crystal Palace,5,2,30,78,0.68,19,25,22,78
+"Stuart Dallas",31,175,68,Northern Ireland,Midfielder,Leeds United,4,5,20,82,0.66,18,30,58,88
+"Moussa Sissoko",33,187,83,France,Midfielder,Tottenham Hotspur,1,3,20,85,0.74,19,28,42,86
+"Ben Mee",33,188,78,England,Defender,Burnley,0,0,20,82,0.71,18,15,55,80
+"Mateusz Klich",31,181,70,Poland,Midfielder,Leeds United,3,6,20,85,0.76,21,30,48,87
+"Felipe Anderson",29,180,73,Brazil,Midfielder,West Ham United,2,4,30,84,0.72,20,25,40,88
+"Conor Gallagher",22,183,75,England,Midfielder,West Ham United,5,8,30,87,0.78,23,32,40,88
+"Jack Harrison",25,178,70,England,Midfielder,Leeds United,4,7,20,85,0.73,19,28,38,85
+"Yves Bissouma",25,183,75,Mali,Midfielder,Brighton & Hove Albion,3,4,20,87,0.75,20,35,48,90
+"Tomas Soucek",27,192,85,Czech Republic,Midfielder,West Ham United,4,3,30,86,0.77,21,32,42,82
+"Adama Traore",27,178,76,Spain,Forward,Wolverhampton Wanderers,2,5,40,83,0.69,17,18,45,80
+"Aaron Ramsdale",25,188,85,England,Goalkeeper,Arsenal,0,0,30,83,0.78,20,0,0,0
+"Ricardo Pereira",28,178,75,Portugal,Defender,Leicester City,1,2,40,86,0.74,18,18,45,82
+"Conor Hourihane",31,183,72,Ireland,Midfielder,Aston Villa,2,4,20,84,0.71,19,20,30,76
+"Joelinton",26,186,81,Brazil,Forward,Newcastle United,3,2,20,81,0.66,17,18,45,80
+"Joel Veltman",29,183,75,Netherlands,Defender,Brighton & Hove Albion,0,1,20,85,0.72,17,15,55,80
+"Japhet Tanganga",23,185,80,England,Defender,Tottenham Hotspur,0,0,20,82,0.68,16,15,55,80
+"Odion Ighalo",33,180,77,Nigeria,Forward,Al Hilal,2,1,20,79,0.65,15,20,25,75
+"Daniel James",24,173,70,Wales,Forward,Leeds United,2,3,20,81,0.68,17,18,45,80
+"Mat Ryan",30,184,80,Australia,Goalkeeper,Real Sociedad,0,0,20,85,0.78,19,0,0,0
+"Jean-Philippe Mateta",24,190,83,France,Forward,Crystal Palace,3,2,20,80,0.67,16,18,45,80
+"Max Aarons",22,178,67,England,Defender,Norwich City,1,2,20,84,0.73,18,15,55,80
+"Ollie Watkins",26,180,70,England,Forward,Aston Villa,5,3,30,82,0.68,17,20,25,75
+"Emile Smith Rowe",21,178,70,England,Midfielder,Arsenal,3,5,20,85,0.74,19,25,40,88
+"Pedro Neto",22,175,68,Portugal,Forward,Wolverhampton Wanderers,4,3,20,82,0.66,16,18,45,80
+"Romain Saiss",32,190,84,Morocco,Defender,Wolverhampton Wanderers,1,0,20,82,0.68,17,15,55,80
+"Alireza Jahanbakhsh",28,180,72,Iran,Forward,Brighton & Hove Albion,2,2,20,79,0.65,15,20,25,75
+"Harry Maguire",30,193,94,England,Defender,Manchester United,1,1,60,89,0.84,22,20,58,85
+"Lucas Digne",29,178,75,France,Defender,Aston Villa,1,5,40,84,0.73,18,18,45,82
+"Alexandre Lacazette",31,175,73,France,Forward,Arsenal,6,4,50,81,0.67,17,18,45,80
+"Adam Webster",27,188,85,England,Defender,Brighton & Hove Albion,1,1,20,83,0.69,17,15,55,80
+"Dean Henderson",25,188,81,England,Goalkeeper,Manchester United,0,0,30,85,0.78,20,0,0,0
+"Robert Sanchez",24,193,84,Spain,Goalkeeper,Brighton & Hove Albion,0,0,20,82,0.72,18,0,0,0
+"Gabriel Martinelli",21,180,73,Brazil,Forward,Arsenal,2,2,20,80,0.66,16,18,45,80
+"Raul Jimenez",30,191,82,Mexico,Forward,Wolverhampton Wanderers,8,5,60,81,0.67,20,18,45,80
+"Yan Valery",23,184,72,France,Defender,Southampton,0,1,10,81,0.68,17,15,55,80
+"Joao Moutinho",35,170,61,Portugal,Midfielder,Wolverhampton Wanderers,1,3,20,87,0.78,22,30,42,82
+"Leandro Trossard",27,173,66,Belgium,Midfielder,Brighton & Hove Albion,4,3,20,85,0.72,19,25,40,88
